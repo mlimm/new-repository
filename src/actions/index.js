@@ -8,6 +8,8 @@ import {
   SELECT_POST
 } from './types';
 
+//  test edit to this action creator file
+
 export function selectPost(post, selected) {
   return {
     type: SELECT_POST,
